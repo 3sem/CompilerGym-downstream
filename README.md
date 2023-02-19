@@ -1,5 +1,9 @@
 ![CompilerGym](https://github.com/facebookresearch/CompilerGym/raw/development/docs/source/_static/img/logo-padded.png)
 
+## Differences from 2.5.0 upstream:
+
+- Ir2Vec patch (#560) is merged: https://github.com/3sem/CompilerGym-downstream/commit/3852585bfec68639cd1ed9c988ef75a894f37dbe
+
 <p align="center">
   <!-- Getting started colab -->
   <a href="https://colab.research.google.com/github/facebookresearch/CompilerGym/blob/stable/examples/getting-started.ipynb">
